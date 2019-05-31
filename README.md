@@ -1,7 +1,19 @@
+
+
 wp-cli/restful
 ==============
 
 Unlock the potential of the WP REST API at the command line.
+
+--------------------------------------------------------------
+
+### This version was forked to allow immediate enhancements to the partially abandoned project.
+
+Forked with the following customizations:
+1. [Support addition fields without an explictily registered schema.](https://github.com/wp-cli/restful/pull/118)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 **Warning:** This project is at a very early stage. Treat it as an experiment, and understand that breaking changes will be made without warning. The sky may also fall on your head. Using RESTful WP-CLI requires the latest nightly build of [WP-CLI](http://wp-cli.org/), which you can install with `wp cli update --nightly`.
 
